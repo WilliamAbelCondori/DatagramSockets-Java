@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SocketsHilos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SocketsHilos_jar</output-path>
+    <root id="archive" name="SocketsHilos.jar">
+      <element id="module-output" name="SocketsHilos" />
+    </root>
+  </artifact>
+</component>
